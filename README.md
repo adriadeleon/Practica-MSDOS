@@ -25,3 +25,27 @@ ___
 - NOTA: Para crear más de una carpeta en un directorio, podemos utilizar el comando "**mkdir** *nombre de la nueva carpeta* *nombre de otra nueva carpeta*".
 ___
 2. Una vez creada la estructura de carpetas debemos acceder con el comando "cd *nombre de directorio*" a la carpeta llamada **TABLAS**
+
+Podemos acceder con el comando que hemos especificado con anterioridad, el comando "**cd**".
+
+![image](https://user-images.githubusercontent.com/98842240/160418629-8c0a499f-1572-4745-bc75-e3701ac36dea.png)
+
+Podemos ver que hemos accedido a la carpeta **TABLAS**.
+___
+3. Ahora debemos acceder a la carpeta raíz del ordenador, este ccomando es más fácil de lo que parece. Debemos ejecutar el comando "**cd /**".
+
+![image](https://user-images.githubusercontent.com/98842240/160419548-1b5afa6a-97f3-4c56-846d-31a13d080631.png)
+
+Si observamos, veremos que hemos accedido a la carpeta raíz del ordenador.
+___
+4. El cuarto paso es visualizar el contenido de la carpeta **PROG**, para esto debemos ejecutar el siguiente comando: "**dir *ruta del directorio***".
+
+![image](https://user-images.githubusercontent.com/98842240/160420679-09fae9c5-d3bc-45e2-ada3-cdafe299c9b3.png)
+
+Veremos que por pantalla se nos imprime el contenido del directorio **PROG**.
+___
+5. 
+
+
+
+
