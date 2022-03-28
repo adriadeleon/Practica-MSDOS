@@ -22,7 +22,7 @@ ___
 
 ![image](https://user-images.githubusercontent.com/98842240/160417077-9d90fbff-5f97-458d-8b81-aa18694314fa.png)
 
-- NOTA: Para crear más de una carpeta en un directorio, podemos utilizar el comando "**mkdir** *nombre de la nueva carpeta* *nombre de otra nueva carpeta*".
+- NOTA: Para crear más de una carpeta en un directorio, podemos utilizar el comando "**mkdir** *nombre de la nueva carpeta* + *nombre de otra nueva carpeta*".
 ___
 2. Una vez creada la estructura de carpetas debemos acceder con el comando "cd *nombre de directorio*" a la carpeta llamada **TABLAS**
 
@@ -44,8 +44,31 @@ ___
 
 Veremos que por pantalla se nos imprime el contenido del directorio **PROG**.
 ___
-5. 
+5. Para este punto debemos borrar la carpeta **PASCAL** para borrarla lo haremos con un comando "**rmdir** *nombre del directorio*".
 
+![image](https://user-images.githubusercontent.com/98842240/160432745-ffb90e4c-1bee-4fbf-b596-8e7c191bddbc.png)
 
+Si queremos comprobar los pasos que vamos haciendo al crear o eliminar un directorio, lo podemos ir visualizando con el comando "**dir**".
+___
+6. Sitúate en la carpeta **VARIOS** y desde allí crea una nueva carpeta dentro de **WORD** llamado **PRACT**.
 
+Para este ejercicio debemos ir a la carpeta **VARIOS** y ejecutar el comando "**mkdir** *nombre del archivo* + *ruta final*".
+<br>
+![image](https://user-images.githubusercontent.com/98842240/160435111-983a9045-31e6-463c-848d-7828148f4722.png)
 
+Al final de la imagen podemos observar que he realizado un **dir** para poder visualizar que el trabajo se ha realizado con exito.
+___
+7. Para este paso debemos situarnos en **PRACT** y desde allí mostrar el contenido de la carpeta **EXCEL**, para ello utilizaremos el comando **dir**.
+
+Al ejecutarlo podemos ver el contenido de la carpeta que hemos seleccionado, hay varias formas de ejecutar el comando, podemos ejecutarlo trambién para poder ver el contenido de sus subcarpetas.
+<br>
+![image](https://user-images.githubusercontent.com/98842240/160451110-581912ce-65ca-48fc-99c3-a00e06437189.png)
+
+___
+8. Desde el directorio **TABLAS** muestra el listado de archivos y directorios del directio raíz.
+
+![image](https://user-images.githubusercontent.com/98842240/160455722-d8f0173f-7ce4-47d5-803c-c9dc3edcc89f.png)
+
+- NOTA: también podemos visualizarlo con el comando "**tree** *ruta*" y veriamos la estructura de la ruta especificada.
+___
+9. 
