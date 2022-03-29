@@ -71,4 +71,112 @@ ___
 
 - NOTA: también podemos visualizarlo con el comando "**tree** *ruta*" y veriamos la estructura de la ruta especificada.
 ___
-9. 
+9. Sitúate en la carpeta APLI y desde allí crea una subcarpeta llamada AGENDA dentro de **VARIOS**
+
+![image](https://user-images.githubusercontent.com/98842240/160636915-1cf453bd-07fb-487b-a444-e8bead29702e.png)
+
+Podemos ver que lo creamos con el comando "**mkdir** *ruta donde lo queremos*".
+___
+
+10. Borrar la carpeta **EXCEL**.
+
+Para ello debemos borrar el directorio con el comando **rmdir**.
+
+![image](https://user-images.githubusercontent.com/98842240/160637652-407ac6d6-56fc-4f11-be29-faa2fc69399e.png)
+
+___
+11. Desde la carpeta raíz debemos crear una carpeta nueva que se llame **NUEVO**.
+
+Con el comando **mkdir** *ruta donde la queremos crear**.
+
+![image](https://user-images.githubusercontent.com/98842240/160639075-247bc784-73b3-4bae-a049-cee10cbf9d9c.png)
+
+___
+12. Desde **PRACT** muestra el contenido de **WORD**.
+
+Con el comando "**dir** *ruta donde queremos ver*"
+
+![image](https://user-images.githubusercontent.com/98842240/160641779-2acd1021-1dfc-404b-b98f-49420956b2b8.png)
+
+___
+
+### **Ejericio 2**
+___
+1. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior)
+
+Podemos ver en la imagen el comando utilizado "**copy con** *nombre.txt*".
+
+![image](https://user-images.githubusercontent.com/98842240/160646162-1fc8493a-6acc-4844-b576-176f24f6454e.png)
+
+___
+2. Copiar el archivo *.txt* anterior en la carpeta **AGENDA**.
+
+![image](https://user-images.githubusercontent.com/98842240/160659064-04915292-0a7e-4729-8678-b9f31b52f48c.png)
+
+Para copiarlo usaremos el comando "**copy**".
+___
+3. Borrar el archivo almacenado en la carpeta **TEXTOS**.
+
+Lo haremos con el comando "**del /F /A**".
+
+![image](https://user-images.githubusercontent.com/98842240/160659563-1358765a-78da-4633-ac67-b9e4acdfc056.png)
+
+![image](https://user-images.githubusercontent.com/98842240/160659613-56a538ef-cfdd-422a-bc89-24d01c0c2dd8.png)
+___
+4. Añade texto en el archivo *.txt* creado con anterioridad.
+
+Lo haremos con el comando "**notepad**"
+
+![image](https://user-images.githubusercontent.com/98842240/160661917-dcddaae9-dd1d-4009-bd69-613798d19ecb.png)
+
+![image](https://user-images.githubusercontent.com/98842240/160661858-e304726f-dbbe-46df-a3fd-511ec1b8dd7a.png)
+___
+5. Copiamos el archivo *.txt* a la carpeta **BASIC**.
+
+Lo haremos con el comando **COPY**.
+
+![image](https://user-images.githubusercontent.com/98842240/160662656-1c2ef3bf-23f7-4e29-8a09-f991180a6879.png)
+
+___
+6. Cambiar el nombre del archivo de la carpeta *.txt* por *FICHERO.txt*.
+
+Para ello usaremos el comando **rename** para poder ponerle un nuevo nombre al archivo.
+
+![image](https://user-images.githubusercontent.com/98842240/160663379-b8d2d83c-3469-43f7-b79b-28d6dd5be4a3.png)
+
+___
+7. Mover el archivo *FICHERO.txt* a la carpeta **BASIC**.
+
+Lo realizaremos con el comando **move**.
+
+![image](https://user-images.githubusercontent.com/98842240/160663622-75a20227-d074-41c4-91dc-74dfa7ca3750.png)
+
+___
+8. Abrir el archivo *EJER.txt* y borrar la primera frase.
+
+Eso lo haremos con el comando **notepad**.
+
+![image](https://user-images.githubusercontent.com/98842240/160663802-d9a72015-ae3c-49f3-9f1f-e1e3d8b72cae.png)
+
+___
+9. Copia el archivo *NUEVO.txt* en la carpeta **NOTAS**.
+
+Con el comando **copy**.
+
+![image](https://user-images.githubusercontent.com/98842240/160664032-65bcad3d-5560-4052-a410-0b1b286afb50.png)
+
+___
+10. ¿Cuántos archivos hay en la carpeta **BASIC**? ¿Y en **NOTAS**?
+
+- NOTAS
+![image](https://user-images.githubusercontent.com/98842240/160664173-0491a179-77b4-406e-bb11-f19366732d8d.png)
+
+- BASIC
+
+![image](https://user-images.githubusercontent.com/98842240/160664300-b5402eb1-d820-4319-b902-8bc9a041a529.png)
+
+___
+- Ejercicio 3
+___
+
+
