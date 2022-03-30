@@ -260,6 +260,44 @@ comprensibles por la máquina, que permiten desarrollar tareas concretas"*
 Los crearemos con el comando *notepad*.
 
 ___
-4. 
+4. Mueve el contenido de **TECINFO** a la carpeta **APLI** del disquete A utilizado para realizar los ejercicios anteriores
+
+
+![image](https://user-images.githubusercontent.com/98842240/160860444-9e93bda6-688a-40dd-914c-8fa9de159dbc.png)
+
+Lo realizaremos con el comando **move** ***.txt** *ruta del directorio donde queremos moverlo todo*.
+___
+6. Eliminar la carpeta **TECINFO**.
+
+Para ello debemos eliminarlo con el comando **rmdir** *ruta del directorio o nombre de este*.
+
+![image](https://user-images.githubusercontent.com/98842240/160861942-87ddfabe-22e3-49c1-8066-593df104182a.png)
+
+___
+7.  Copia a la vez los archivos *HARD.TXT* y *SOFT.TXT* en la carpeta **VARIOS**.
+
+Este punto será ejecutado con el comando **copy** *nombre de los archivos separados por un espacio* + *ruta donde queremos copiarlos*.
+___
+8. Cambia la extensión de los archivos contenidos en **AGENDA** por *.TYP*.
+
+![image](https://user-images.githubusercontent.com/98842240/160863340-8d4a2d2e-3b77-46f4-8912-55d486a30e23.png)
+
+Para ello debemos utilizar el comando **ren** y darle una nueva extensión al archivo.
+___
+9. Cambia la primera letra del nombre de todos los archivos del directorio **APLI** que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la letra S
+
+![image](https://user-images.githubusercontent.com/98842240/160863775-af1bec95-468c-4e4f-8460-0cd0fefa063a.png)
+
+___
+10. Copia los archivos contenidos en la carpeta **APLI** que tengan extensión DOC en la carpeta **AGENDA**.
+
+Utilizaremos el comando **copy**.
+
+![image](https://user-images.githubusercontent.com/98842240/160864284-744f47e7-7d56-4fee-ae16-dfad5c821b92.png)
+
+___
+### **Final del trabajo de MS-DOS**
+
+
 
 
