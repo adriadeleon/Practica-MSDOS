@@ -241,4 +241,25 @@ ___
 ![image](https://user-images.githubusercontent.com/98842240/160814151-fbd3a942-cabc-4b5e-9781-bd617844f30f.png)
 
 ___
-2. 
+2. Crea dentro de **TECINFO** el siguiente archivo de texto y llámalo *HARD.TXT*.
+
+*"El HARDWARE está constituido por los elementos físicos del ordenador.
+Consta esencialmente de componentes electrónicos que proporcionan el
+soporte necesario para la interpretación y ejecución de las operaciones
+elementales que realiza el ordenador"*
+
+3. Y crearemos otro archivo llamado *SOFT.txt*.
+
+*"El SOFTWARE es el conjunto de elementos lógicos necesarios para que el
+ordenador realice las funciones que se le encomiendan. Está formado por
+los programas, es decir, por un conjunto ordenado de instrucciones,
+comprensibles por la máquina, que permiten desarrollar tareas concretas"*
+
+![image](https://user-images.githubusercontent.com/98842240/160851597-59defc1e-0ce0-43a9-9353-9dda0d3713b4.png)
+
+Los crearemos con el comando *notepad*.
+
+___
+4. 
+
+
