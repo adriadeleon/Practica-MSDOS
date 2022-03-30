@@ -178,5 +178,67 @@ ___
 ___
 - Ejercicio 3
 ___
+1. Borra la **ACCESS** y en su lugar crea una nueva carpeta llamada **ASTRO**.
 
+![image](https://user-images.githubusercontent.com/98842240/160807123-1f47cd3c-99f3-4835-a426-78132f456d2a.png)
 
+La acción la completaremos con el comando **rmdir** *nombre de la carpeta*.
+___
+2. Crea la siguiente estructura de directorios y subdirectorios dentro de la carpeta **ASTRO**.
+
+![image](https://user-images.githubusercontent.com/98842240/160807498-d1ec129f-b449-41b5-9414-811b743569fa.png)
+
+![image](https://user-images.githubusercontent.com/98842240/160807558-f80fd520-73fa-4d6b-802f-ac9af97f2178.png)
+
+___
+3. Sitúate en la carpeta **CIENCIA** y desde allí muestra el listado de archivos y su carpeta **HISTORIA**.
+
+![image](https://user-images.githubusercontent.com/98842240/160808033-45a59638-2f59-4189-a47c-03a60d11fb94.png)
+
+- NOTA: con un **dir -r** la extensión el *-r* significa *recursividad*, es decir, que imprimirá por pantalla la carpeta y sus subcarpetas.
+
+___
+4. Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre *TYCHO.txt* dentro de la carpeta **DATOS1**.
+
+![image](https://user-images.githubusercontent.com/98842240/160811082-fe2b6842-e60f-4b62-97cb-74dad1ddc9c9.png)
+
+Usaremos el comando **notepad** para poder crear el archivo *.txt*.
+___
+5. Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y guárdalo con el nombre *KEPLER.TXT* dentro de la carpeta **DATOS2**.
+
+![image](https://user-images.githubusercontent.com/98842240/160811661-295dc44b-f22f-4d75-945a-005804f66ef2.png)
+
+___
+6.  Copia los archivos *TYCHO.TXT* y *KEPLER.TXT* en la carpeta **CIENCIA**.
+
+![image](https://user-images.githubusercontent.com/98842240/160812032-174a29e7-a52b-4616-baf3-120220f1e5ea.png)
+
+Esto lo haremos con el comando **copy**.
+___
+7. Cambia de lugar los archivos almacenados en **DATOS1** y **DATOS2** de forma que *TYCHO.TXT* quede guardado dentro **DATOS2** y *KEPLER.TXT* en **DATOS1**.
+
+![image](https://user-images.githubusercontent.com/98842240/160812425-7522822d-6661-4164-8364-6918df14f8eb.png)
+
+___
+8. Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta **HISTORIA** con el nombre *TOTAL.TXT*.
+
+![image](https://user-images.githubusercontent.com/98842240/160812635-27925e68-dfc1-4eb1-9531-ba8c5e718b83.png)
+
+- NOTA: Cuando escribimos *.txt* significa que cogemos todos los archivos de esa extensión.
+___
+9. Abre el archivo KEPLER.TXT almacenado en la carpeta **CIENCIA** y añade el siguiente texto:
+
+  *“Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por
+Galileo a través de un pequeño telescopio, cuya introducción en la
+observación astronómica constituye uno de los hitos de la astronomía.”*
+
+Esta acción la realizaremos con el comando **notepad** *nombre del archivo*.
+___
+- Ejercicio 4
+___
+1. Crea en la carpeta raíz de la unidad A: una carpeta denominada **TECINFO**.
+
+![image](https://user-images.githubusercontent.com/98842240/160814151-fbd3a942-cabc-4b5e-9781-bd617844f30f.png)
+
+___
+2. 
